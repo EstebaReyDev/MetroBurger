@@ -1,0 +1,7 @@
+{
+  "name": "METRO BURGER - Anatomía del Exceso",
+  "description": "Una experiencia gastronómica metropolitana con estética neobrutalista, diseñada para conversiones directas de delivery y retiro.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
